@@ -6,3 +6,4 @@ print(air)
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
 print("Lucas Montpetit")
 print ("allo")
+a = 1+1

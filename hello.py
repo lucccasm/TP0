@@ -12,3 +12,4 @@ if air < 50 :
     print(air)
 else:
     print(air+1)
+b = 0

@@ -8,3 +8,7 @@ print("Lucas Montpetit")
 print ("allo")
 a = 1+1
 print(a)
+if air < 50 :
+    print(air)
+else:
+    print(air+1)
